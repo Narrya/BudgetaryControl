@@ -1,0 +1,31 @@
+C:\Documents and Settings\pan_yanek\Moje dokumenty\Visual Studio 2008\Projects\BudgetaryControl\BudgetaryControl\bin\Debug\BudgetaryControl.exe
+C:\Documents and Settings\pan_yanek\Moje dokumenty\Visual Studio 2008\Projects\BudgetaryControl\BudgetaryControl\bin\Debug\BudgetaryControl.pdb
+C:\Documents and Settings\pan_yanek\Moje dokumenty\Visual Studio 2008\Projects\BudgetaryControl\BudgetaryControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\pan_yanek\Moje dokumenty\Visual Studio 2008\Projects\BudgetaryControl\BudgetaryControl\obj\Debug\BudgetaryControl.Form1.resources
+C:\Documents and Settings\pan_yanek\Moje dokumenty\Visual Studio 2008\Projects\BudgetaryControl\BudgetaryControl\obj\Debug\BudgetaryControl.Properties.Resources.resources
+C:\Documents and Settings\pan_yanek\Moje dokumenty\Visual Studio 2008\Projects\BudgetaryControl\BudgetaryControl\obj\Debug\BudgetaryControl.csproj.GenerateResource.Cache
+C:\Documents and Settings\pan_yanek\Moje dokumenty\Visual Studio 2008\Projects\BudgetaryControl\BudgetaryControl\obj\Debug\BudgetaryControl.exe
+C:\Documents and Settings\pan_yanek\Moje dokumenty\Visual Studio 2008\Projects\BudgetaryControl\BudgetaryControl\obj\Debug\BudgetaryControl.pdb
+C:\Documents and Settings\pan_yanek\Moje dokumenty\Visual Studio 2008\Projects\BudgetaryControl\BudgetaryControl\obj\Debug\BudgetaryControl.Form2.resources
+C:\Documents and Settings\pan_yanek\Moje dokumenty\Visual Studio 2008\Projects\BudgetaryControl\BudgetaryControl\obj\Debug\BudgetaryControl.Form3.resources
+C:\Documents and Settings\pan_yanek\Moje dokumenty\Visual Studio 2008\Projects\BudgetaryControl\BudgetaryControl\obj\Debug\BudgetaryControl.Form4.resources
+C:\Documents and Settings\pan_yanek\Moje dokumenty\Visual Studio 2008\Projects\BudgetaryControl\BudgetaryControl\obj\Debug\BudgetaryControl.Form5.resources
+C:\Documents and Settings\pan_yanek\Moje dokumenty\Visual Studio 2008\Projects\BudgetaryControl\BudgetaryControl\bin\Debug\BUDGETdatabase.sdf
+C:\Documents and Settings\pan_yanek\Moje dokumenty\Visual Studio 2008\Projects\BudgetaryControl\BudgetaryControl\bin\Debug\BudgetaryControl.exe.config
+C:\Documents and Settings\pan_yanek\Moje dokumenty\Visual Studio 2008\Projects\BudgetaryControl\BudgetaryControl\obj\Debug\BudgetaryControl.Form3_11.resources
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\bin\Debug\BudgetaryControl.exe.config
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Debug\BudgetaryControl.exe
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Debug\BudgetaryControl.pdb
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\bin\Debug\BUDGETdatabase.sdf
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\bin\Debug\BudgetaryControl.exe
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\bin\Debug\BudgetaryControl.pdb
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Debug\BudgetaryControl.Form1.resources
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Debug\BudgetaryControl.Form2.resources
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Debug\BudgetaryControl.Form3_11.resources
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Debug\BudgetaryControl.Form3.resources
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Debug\BudgetaryControl.Form4.resources
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Debug\BudgetaryControl.Form5.resources
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Debug\BudgetaryControl.Properties.Resources.resources
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Debug\ResGen.read.1.tlog
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Debug\ResGen.write.1.tlog

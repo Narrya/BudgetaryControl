@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\bin\Release\BudgetaryControl.exe.config
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\bin\Release\BUDGETdatabase.sdf
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\bin\Release\BudgetaryControl.exe
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\bin\Release\BudgetaryControl.pdb
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Release\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Release\BudgetaryControl.Form1.resources
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Release\BudgetaryControl.Form2.resources
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Release\BudgetaryControl.Form3_11.resources
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Release\BudgetaryControl.Form3.resources
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Release\BudgetaryControl.Form4.resources
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Release\BudgetaryControl.Form5.resources
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Release\BudgetaryControl.Properties.Resources.resources
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Release\ResGen.read.1.tlog
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Release\ResGen.write.1.tlog
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Release\BudgetaryControl.exe
+C:\Users\user\Desktop\BudgetaryControl(12.01.2008)\BudgetaryControl\BudgetaryControl\obj\Release\BudgetaryControl.pdb
