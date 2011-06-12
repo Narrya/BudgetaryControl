@@ -11,7 +11,7 @@ namespace BudgetaryControl
         public static SqlCeConnection polaczenie;
         public static bool Polacz()
         {
-            polaczenie = new SqlCeConnection("Data Source=C:\\Documents and Settings\\pan_yanek\\Moje dokumenty\\Visual Studio 2008\\Projects\\BudgetaryControl\\BudgetaryControl\\BUDGETdatabase.sdf");
+            polaczenie = new SqlCeConnection("Data Source=BUDGETdatabase.sdf");
             try
             {
                 polaczenie.Open();
